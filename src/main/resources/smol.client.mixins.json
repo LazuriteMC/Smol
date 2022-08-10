@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "dev.lazurite.smol.client.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"PlayerRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
